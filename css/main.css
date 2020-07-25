@@ -3,11 +3,13 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Ubuntu'; 
+    font-family: 'Ubuntu';
+    font-weight: 400;
     font-size: 16px; 
 }
 nav ul, footer ul {
     font-family: 'Ubuntu';
+    font-weight: 400;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,8 +25,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Ubuntu'; font-weight: 700;}
-.header, .footer, .header h3 { font-family: 'Ubuntu'; text-transform: uppercase; font-weight: normal; }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Ubuntu'; font-weight: 400;}
+.header, .footer, .header h3 { font-family: 'Ubuntu'; text-transform: uppercase; font-weight: 400; }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
