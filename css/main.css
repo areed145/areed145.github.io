@@ -1,13 +1,13 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
 
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Ubuntu', Georgia, Times; 
+    font-family: 'Ubuntu'; 
     font-size: 16px; 
 }
 nav ul, footer ul {
-    font-family: 'Ubuntu', 'Arial', 'Sans-Serif';
+    font-family: 'Ubuntu';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,8 +23,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Ubuntu', Georgia, Times; font-weight: 700;}
-.header, .footer, .header h3 { font-family: 'Ubuntu', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Ubuntu'; font-weight: 700;}
+.header, .footer, .header h3 { font-family: 'Ubuntu'; text-transform: uppercase; font-weight: normal; }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
