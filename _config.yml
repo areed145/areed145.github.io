@@ -1,2 +1,3 @@
 name: Adam Reeder, areed145
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
